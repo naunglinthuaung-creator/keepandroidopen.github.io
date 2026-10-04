@@ -1,4 +1,5 @@
-/**
+/**   <script src="https://keepandroidopen.org/banner.js"></scrip
+
  * Keep Android Open – Countdown Banner
  * Licensed under the GNU General Public License v3.0
  * SPDX-License-Identifier: GPL-3.0-only
